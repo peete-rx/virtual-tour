@@ -1,0 +1,38 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+panorama_B1829AE0_BB09_FD21_41D0_3C50D335B04F.label = R0020032_HDR-Edit
+panorama_B27700C4_BB09_AD62_41D3_A02D99088DE1.label = R0020034_HDR-Edit
+panorama_B2773030_BB08_6D22_41E1_9F50BABEE978.label = R0020037_HDR-Edit
+panorama_B2774B6C_BB09_B322_41E5_A5F3B69056E3.label = R0020035_HDR-Edit
+panorama_B2777603_BB08_54E6_41C5_929F852F7A6A.label = R0020036_HDR-Edit
+panorama_B277EAC8_BB08_7D62_41E6_AA716F34A92B.label = R0020038_HDR-Edit
+panorama_B28E05C4_BB09_D762_41E3_8406027A4A0E.label = R0020033_HDR-Edit
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A919D218_BB0B_ECE1_41CF_3B28F05C2DF9.toolTip = To balcony
+HotspotPanoramaOverlayArea_A9614A35_BB09_BD22_41D3_FDABE573AD6E.toolTip = Living area
+HotspotPanoramaOverlayArea_AA051DB7_BB08_B72F_41CA_A3343599250B.toolTip = Kitchen
+HotspotPanoramaOverlayArea_AA5E808F_BB08_ADFE_41E0_996AF6C11056.toolTip = To bedrooms
+HotspotPanoramaOverlayArea_AB22E1C6_BB38_AF61_41DC_14EF2975A373.toolTip = Back 
+HotspotPanoramaOverlayArea_AB2D969B_BB37_B5E7_41AD_E8F1C3F5E620.toolTip = To Master bedroom
+HotspotPanoramaOverlayArea_B4428845_BB08_7D63_41D1_8F8EC414317F.toolTip = Kitchen
+HotspotPanoramaOverlayArea_B5AD503E_BB08_AD1E_41E6_35A07EFCB44D.toolTip = To Balcony
+HotspotPanoramaOverlayArea_B5EAC6EB_BB0F_D526_41D0_9F43EB7CA06D.toolTip = To bedrooms
+HotspotPanoramaOverlayArea_B6863E52_BB1B_B566_41BB_A04742125F35.toolTip = Click here to commence tour
+
+## Action
+
+### PDF
+PopupPDFBehaviour_AF7E3415_BB18_D4E3_41D2_90362D55AB1A.url = files/Alkira Residences Luxurious Brochure (2) (1)_en.pdf
